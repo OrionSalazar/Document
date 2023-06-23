@@ -1,0 +1,12 @@
+@media(max-width:
+600px){
+body{
+flex-direction:column}
+#main-doc{
+width: 100%;}
+#navbar{
+width: 100%;}
+
+html {
+  background-color: yellow;
+}
